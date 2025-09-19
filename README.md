@@ -1,5 +1,8 @@
 # Memory Game (Matching Pairs)
 
+![Memory Game (Matching Pairs) Example](./memory_game.png)
+
+
 **Year:** 2025  
 **Category:** JavaScript  
 **Type:** Games & Utilities  
